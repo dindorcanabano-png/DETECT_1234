@@ -1,7 +1,4 @@
-# Streamlit Cloud Ready - AI Vision App
-
-## Important
-This version is FIXED for Streamlit Cloud.
+# DETECT_1234
 
 ## Steps to Deploy
 1. Upload this folder to GitHub
